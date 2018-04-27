@@ -23,9 +23,22 @@ body {
   float: left;
   border-style: solid;
   border: #D7D7D7;
-
+  padding-right: 80px;
+  padding-top: 40px;
+  padding-bottom: 80px;
 
 }
 .tano {
   float: right;
+  padding-right: 80px;
+  padding-top: 80px;
+  padding-bottom: 40px;
+
+}
+.sita {
+  float: right;
+  padding-top: 60px;
+}
+.saba {
+  float: left;
 }
