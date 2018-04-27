@@ -3,7 +3,7 @@ h1 {
 }
 body {
   text-align: center;
-  background-image: url(../assets/backgrounds/landing.jpg);
+  background-image: url("../assets/backgrounds/landing.jpg");
   font-size: 20px;
   background-repeat: no-repeat;
 
@@ -48,14 +48,9 @@ body {
   background-size: 100%;
 
 }
-.container-nane {
-  text-align: center;
-  padding-right: 10px;
-  padding-left: 10px;
-  padding-bottom: 40px;
-}
-.kumi {
-  float: left;
-  border-style: solid;
-  border-color: #A9A9A9;
+.anne {
+  background-image: url("../assets/backgrounds/subscribe.jpg");
+  background-size: cover;
+  height: 300px;
+
 }
