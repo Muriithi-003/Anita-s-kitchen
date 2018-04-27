@@ -1,10 +1,31 @@
 h1 {
-  text-align: center;
-
-  font-size: 20px;
+  color: white;
 }
 body {
-    background-image: url(../assets/backgrounds/landing.jpg);
-    padding-bottom: 2000px;
-    background-repeat: no-repeat;
+  text-align: center;
+  background-image: url(../assets/backgrounds/landing.jpg);
+  font-size: 20px;
+  background-repeat: no-repeat;
+
+}
+.moja {
+  background-color: #F15A29;
+  color: 000000;
+}
+.mbili {
+  background-color: 000000;
+  color: FFFFFF;
+}
+.tatu {
+  background-image:url(../assets/foodtop/breakfast.jpg)
+}
+.nne {
+  float: left;
+  border-style: solid;
+  border: #D7D7D7;
+
+
+}
+.tano {
+  float: right;
 }
