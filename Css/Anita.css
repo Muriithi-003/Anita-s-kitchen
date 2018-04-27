@@ -17,7 +17,7 @@ body {
   color: FFFFFF;
 }
 .tatu {
-  background-image:url(../assets/foodtop/breakfast.jpg)
+
 }
 .nne {
   float: left;
@@ -38,7 +38,12 @@ body {
 .sita {
   float: right;
   padding-top: 60px;
+  padding-left: 60px;
 }
 .saba {
   float: left;
+}
+.buttoni1 {
+  border: 2px #F15A29;
+  color: #F15A29;
 }
