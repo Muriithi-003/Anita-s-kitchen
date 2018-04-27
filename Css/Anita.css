@@ -12,12 +12,8 @@ body {
   background-color: #F15A29;
   color: 000000;
 }
-.mbili {
-  background-color: 000000;
-  color: FFFFFF;
-}
-.tatu {
-
+.tatu:hover {
+    text-decoration-color: #C0C0C0;
 }
 .nne {
   float: left;
@@ -39,11 +35,14 @@ body {
   float: right;
   padding-top: 60px;
   padding-left: 60px;
+  padding-bottom: 40px;
 }
 .saba {
   float: left;
 }
 .buttoni1 {
-  border: 2px #F15A29;
   color: #F15A29;
+}
+.nane {
+  background-image: url(../assets/backgrounds/foodsBg.jpg);
 }
