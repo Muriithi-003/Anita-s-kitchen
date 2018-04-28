@@ -12,8 +12,8 @@ body {
   background-color: #F15A29;
   color: 000000;
 }
-.tatu:hover {
-    text-decoration-color: #C0C0C0;
+.picha:hover {
+    text-decoration-color: white;
 }
 .nne {
   float: left;
@@ -63,6 +63,13 @@ body {
 .kent {
   background-image: url("../assets/backgrounds/foodsBg.jpg");
   height: 600px;
+  color: white;
+  padding-top: 40px;
+}
+.kumi {
+  padding-top: 60px;
+}
+.simu {
   padding-bottom: 60px;
 }
 .meno {
