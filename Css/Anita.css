@@ -52,6 +52,7 @@ body {
   background-image: url("../assets/backgrounds/subscribe.jpg");
   background-size: cover;
   height: 300px;
+
 }
 .kofia {
   color: white;
@@ -63,4 +64,17 @@ body {
   background-image: url("../assets/backgrounds/foodsBg.jpg");
   height: 600px;
   padding-bottom: 60px;
+}
+.meno {
+  background-color: #F15A29;
+  height: 300px;
+  padding-top: 40px;
+  color: white;
+  font-size: 50px;
+}
+.macho {
+  font-size: 20px;
+}
+.mwisho {
+  font-size: 15px;
 }
