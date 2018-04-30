@@ -21,8 +21,26 @@ body {
   background-color: #C0C0C0;
   width: 345px;
 }
-.picha:hover {
-    text-decoration-color: white;
+.tatu {
+  background-image: url("../assets/foodtop/breakfast.jpg");
+  height: 210px;
+  color: white;
+  width: 347px;
+}
+.stima{
+  background-image: url("../assets/foodtop/dinner.jpg");
+  height: 210px;
+  color: white;
+}
+
+.tatu:hover {
+  opacity: 0.5;
+}
+.stima:hover {
+  opacity: 0.5;
+}
+.gari:hover {
+  opacity: 0.5;
 }
 .tatu{
   background-image: url("../assets/foodtop/breakfast.jpg");
@@ -32,18 +50,20 @@ body {
   border-style: solid;
   border: #D7D7D7;
   padding-right: 80px;
-  padding-top: 40px;
+  padding-top: 80px;
   padding-bottom: 80px;
 }
-.gari img   {
-  opacity: 1;
-  backface-visibility: hidden;
-
+.gari {
+  background-image: url("../assets/foodtop/lunch.jpg");
+  height: 210px;
+  color: white;
+  width: 345px;
+  padding-bottom: 60px;
 }
 .tano {
   float: right;
   padding-right: 80px;
-  padding-top: 80px;
+  padding-top: 120px;
   padding-bottom: 40px;
 
 }
