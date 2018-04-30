@@ -1,4 +1,46 @@
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: absolute;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #de1111;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+    text-align:left;
+}
 
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #818181;
+    display: block;
+    transition: 0.3s;
+    padding: 23px;
+
+}
+
+.sidenav a:hover{
+    color: #f1f1f1;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+@media screen and (max-height: 450px) {
+  html {padding-top: 15px;}
+  html {font-size: 18px;}
+}
+.maji {
+  text-align: left;
+}
 h1 {
   color: white;
 }
@@ -26,6 +68,7 @@ body {
   height: 210px;
   color: white;
   width: 347px;
+  text-align: center;
 }
 .stima{
   background-image: url("../assets/foodtop/dinner.jpg");
@@ -35,12 +78,15 @@ body {
 
 .tatu:hover {
   opacity: 0.5;
+  color: black;
 }
 .stima:hover {
   opacity: 0.5;
+  color: black;
 }
 .gari:hover {
   opacity: 0.5;
+  color: black;
 }
 .tatu{
   background-image: url("../assets/foodtop/breakfast.jpg");
@@ -50,7 +96,7 @@ body {
   border-style: solid;
   border: #D7D7D7;
   padding-right: 80px;
-  padding-top: 80px;
+  padding-top: 50px;
   padding-bottom: 80px;
 }
 .gari {
@@ -64,7 +110,7 @@ body {
   float: right;
   padding-right: 80px;
   padding-top: 120px;
-  padding-bottom: 40px;
+
 
 }
 .sita {
@@ -100,12 +146,13 @@ body {
   background-image: url("../assets/backgrounds/foodsBg.jpg");
   height: 600px;
   color: white;
-  padding: 60px;
+  padding: 100px;
   text-align: center;
 }
 .keki {
   background-color: #FFFFFF;
   color: #000000;
+  padding-left: 40px;
 }
 .kumi {
   padding-top: 60px;
@@ -125,4 +172,10 @@ body {
 }
 .mwisho {
   font-size: 15px;
+}
+.picha {
+  padding-bottom: 50px;
+}
+.beef {
+  padding-top: 200px;
 }
