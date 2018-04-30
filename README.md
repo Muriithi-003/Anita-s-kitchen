@@ -1,14 +1,14 @@
-# Independent Project
+# Anita's kitchen
+#### This is a website for Anita's kitchen
+#### By Muriithi Vionna
+## Description
+This is a website for Anita's kitchen.it provides information about Anita's kitchen such as the meals she cooks and drinks available.  
+## Setup/Installation Requirements
+* This website is compatible to all web browsers.
 
-## Instructions
-  1) Please clone the Moringa School **mpft1-ip** repo to your computer.
+## Technologies Used
+I used html,css, bootstrap and jquerry to develop this website.
 
-  2) Create a repo on your profile, and copy the files from **mpft1-ip** to your new repo.
+### License
+I used the MIT license.
   
-  3) Fix up the folder structure.
-
-  4) Submit your link through Moringa School LMS.
-
-  5) Complete the independent project.
-  
-  6) Push your commits up to your repo.
