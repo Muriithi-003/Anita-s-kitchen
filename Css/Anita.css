@@ -22,6 +22,10 @@ body {
   padding-right: 80px;
   padding-top: 40px;
   padding-bottom: 80px;
+}
+.gari img   {
+  opacity: 1;
+  backface-visibility: hidden;
 
 }
 .tano {
